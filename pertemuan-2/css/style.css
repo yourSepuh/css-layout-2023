@@ -1,0 +1,10 @@
+p {
+    background-color: aqua;
+}
+
+.posisi-absolute {
+    position: absolute;
+    top: 200px;
+    left: 0px;
+    background-color: coral;
+}
