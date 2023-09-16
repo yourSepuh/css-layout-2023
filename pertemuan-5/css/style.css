@@ -1,0 +1,53 @@
+body {
+    width: 960px;
+    margin: 0 auto;
+    font-family: Verdana;
+}
+
+.header {
+    text-align: center;
+}
+
+.nav, .highlight, .footer{
+    text-align: center;
+    background-color: aqua;
+    padding: 10px;
+    margin: 10px;
+}
+
+.nav li{
+    display: inline;
+    padding: 5px;
+}
+
+.highlight {
+    text-align: center;
+    background-color: #efefef;
+    padding: 10px;
+    margin: 10px;
+}
+
+.highlight img {
+    width: 20%;
+}
+
+.kolom1, .kolom2, .kolom3 {
+    float: left;
+    width: 280px;
+    height: 200px;
+    margin: 10px;
+    padding: 10px;
+    background-color: #efefef;
+}
+
+.konten {
+    height: 100%;
+    overflow: auto;
+}
+
+.footer {
+    text-align: center;
+    background-color: #efefef;
+    padding: 10px;
+    margin: 10px;
+}
